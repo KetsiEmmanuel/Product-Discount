@@ -1,4 +1,7 @@
 
+// some changes
+
+
 import java.util.*; //The utility package
 public class products {
 //the decalaration of variables
